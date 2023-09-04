@@ -1,3 +1,5 @@
+![trustii logo](/HeroImage.png)
+
 # Allergen Chip data challenge result
 This repository contains the [Allergen Chip](https://www.trustii.io/post/allergen-chip) data challenge result including best notebooks source code and documentation.
 
@@ -33,5 +35,8 @@ The dataset has been provided by Société Française of Allergology (SFA) and p
 
 If you are interested by accessing the dataset or collaborating with Trustii.io and SFA on this project, please reach out to us at contact@trustii.io.
 
+# More information
+
+To access the challenge forum discussions and the dataset description, check out the challenge webpage at https://app.trustii.io.
 
 
